@@ -1,4 +1,4 @@
-# AI Engagement Predictor
+# AI-Driven Social Media Engagement Analysis
 
 ## Project Overview
 This project analyzes social media engagement data to evaluate platform performance, content type effectiveness, and sentiment impact.
