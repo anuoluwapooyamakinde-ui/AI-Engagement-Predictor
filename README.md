@@ -1,5 +1,5 @@
 # AI-Driven Social Media Engagement Analysis
-
+<img width="673" height="504" alt="Visualization chart" src="https://github.com/user-attachments/assets/c5f8dc96-5d04-4bee-b0cc-c80fc33b0cfd" />
 ## Project Overview
 This project analyzes social media engagement data to evaluate platform performance, content type effectiveness, and sentiment impact.
 
